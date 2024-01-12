@@ -1,5 +1,4 @@
 # Sadece arşiv amaçlı paylaşılmıştır
-# Kullanmak için
 
 # API Tedariği
 https://rapidapi.com/apidojo/api/transfermarket
